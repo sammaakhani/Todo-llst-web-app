@@ -1,0 +1,49 @@
+*{
+    text-align: center;
+    background-color: rgb(4, 70, 4);
+}
+#mainheading{
+    color: rgb(223, 229, 45);
+    font-weight: 100;
+    font-size: 50px;
+    
+}
+#inputbox {
+    height: 50px;
+    width: 600px;
+    border-radius: 5px;
+    border-style: double;
+    border-color: rgb(223, 229, 45) ;
+    color:rgb(223, 229, 45); 
+    font-size: 30px;
+}
+#InputBtn {
+    height: 50px;
+    border-style: double;
+    border-color: rgb(223, 229, 45) ;
+    color:rgb(223, 229, 45); 
+    font-size: 30px;
+}
+#EditBtn{
+    height: 50px;
+    border-style: double;
+    border-color: rgb(223, 229, 45) ;
+    color:rgb(223, 229, 45); 
+    font-size: 30px;
+} 
+
+#DelBtn{
+    height: 50px;
+    border-style: double;
+    border-color: rgb(223, 229, 45) ;
+    color:rgb(223, 229, 45); 
+    font-size: 30px;
+    margin-left: 3px;
+}
+#Listtxt{
+    border-radius: 5px;
+    color:rgb(223, 229, 45);
+    margin: 10px 20px;
+    list-style: none;
+    font-size: 50px;
+}
